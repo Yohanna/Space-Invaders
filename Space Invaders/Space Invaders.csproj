@@ -8,8 +8,8 @@
     <ProjectGuid>{4A828958-C80B-4A13-846F-525C9D0F5B9D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Space_Invaders_With_Classes</RootNamespace>
-    <AssemblyName>Space Invaders With Classes</AssemblyName>
+    <RootNamespace>Space_Invaders</RootNamespace>
+    <AssemblyName>Space Invaders</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
