@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Space_Invaders_With_Classes
+namespace Space_Invaders
 {
     static class Program
     {

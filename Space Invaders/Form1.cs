@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Space_Invaders_With_Classes
+namespace Space_Invaders
 {
     public partial class Form1 : Form
     {

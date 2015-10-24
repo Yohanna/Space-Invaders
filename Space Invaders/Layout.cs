@@ -7,7 +7,8 @@ using System.Data;
 using System.Drawing;
 
 
-namespace Space_Invaders_With_Classes
+
+namespace Space_Invaders
 {
     class Layout
     {

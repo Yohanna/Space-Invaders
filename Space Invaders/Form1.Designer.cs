@@ -1,4 +1,4 @@
-﻿namespace Space_Invaders_With_Classes
+﻿namespace Space_Invaders
 {
     partial class Form1
     {
@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.Timer = new System.Windows.Forms.Timer(this.components);
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.newToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -240,7 +241,7 @@
             // 
             // Panel
             // 
-            this.Panel.BackgroundImage = global::Space_Invaders_With_Classes.Properties.Resources.Background;
+            this.Panel.BackgroundImage = global::Space_Invaders.Properties.Resources.Background;
             this.Panel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Panel.Location = new System.Drawing.Point(12, 43);
             this.Panel.Name = "Panel";
@@ -316,6 +317,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Panel);
             this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Space Invaders";
