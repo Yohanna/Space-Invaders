@@ -1,7 +1,9 @@
-# Space Invaders
-* Space Invaders is a game I built in C# in a team of 3 for my Advanced Programming course back in early 2013.
+## What is this?
+* Space Invaders is single player game I built in C# in a team of 3 for my Advanced Programming course back in early 2013.
 
-* The Aliens are invading the earth (or maybe they're just stopping for refueling..hmm) and you are humanity's last hope. You need to load your guns and start shooting the ships (i.e. click on the ship picture to shoot it down) before they land on earth (touch the bottom of the screen).
+
+# Space Invaders
+The Aliens are invading the earth (or maybe they're just stopping for refueling..hmm) and you are humanity's last hope. You need to load your guns and start shooting the ships (i.e. click on the ship picture to shoot it down) before they land on earth (touch the bottom of the screen).
 
 ![Space Invaders Meme](https://github.com/Yohanna/Space-Invaders/blob/master/Screeshots/meme.jpg "Meme")
 
