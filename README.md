@@ -5,7 +5,7 @@
 # Space Invaders
 The Aliens are invading the earth (or maybe they're just stopping for refueling..hmm) and you are humanity's last hope. You need to load your guns and start shooting the ships (i.e. click on the ship picture to shoot it down) before they land on earth (touch the bottom of the screen).
 
-![Space Invaders Meme](https://github.com/Yohanna/Space-Invaders/blob/master/Screeshots/meme.jpg "Meme")
+![Space Invaders Meme](https://github.com/Yohanna/Space-Invaders/blob/master/Screenshots/meme.jpg "Meme")
 
 # System Requirements
 1. A mouse
@@ -16,19 +16,19 @@ The Aliens are invading the earth (or maybe they're just stopping for refueling.
 # Screenshots
 
 
-![Start Screen](https://github.com/Yohanna/Space-Invaders/blob/master/Screeshots/start_screen.PNG "Start Screen")
+![Start Screen](https://github.com/Yohanna/Space-Invaders/blob/master/Screenshots/start_screen.PNG "Start Screen")
 
 
 ### Start a new game or restart the current one
-![File Menu](https://github.com/Yohanna/Space-Invaders/blob/master/Screeshots/file_menu.png "File Menu")
+![File Menu](https://github.com/Yohanna/Space-Invaders/blob/master/Screenshots/file_menu.png "File Menu")
 
 ### Ship Types
 * Don't like the default alien ship? well, it's your lucky day cause you can change how the ships look like.
 
-![Options Menu](https://github.com/Yohanna/Space-Invaders/blob/master/Screeshots/options_menu_ship.png "Change ship type")
+![Options Menu](https://github.com/Yohanna/Space-Invaders/blob/master/Screenshots/options_menu_ship.png "Change ship type")
 
 
 ### Changing the difficulty
 * The difficulty in Space Invaders is controlled by the ships speed.
 
-![Options Menu](https://github.com/Yohanna/Space-Invaders/blob/master/Screeshots/options_menu_speed.png "Change ship speed")
+![Options Menu](https://github.com/Yohanna/Space-Invaders/blob/master/Screenshots/options_menu_speed.png "Change ship speed")
