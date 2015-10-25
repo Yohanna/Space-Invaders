@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Space_Invader.Properties {
+namespace Space_Invaders.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

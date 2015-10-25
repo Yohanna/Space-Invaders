@@ -1,4 +1,4 @@
-﻿namespace Space_Invader
+﻿namespace Space_Invaders
 {
     partial class Form1
     {
