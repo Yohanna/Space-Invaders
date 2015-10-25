@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.Threading;
 
-namespace Space_Invader_BF
+namespace Space_Invader
 {
     public partial class Form1 : Form
     {
